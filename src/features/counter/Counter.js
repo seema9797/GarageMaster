@@ -6,8 +6,6 @@ import {
   incrementByAmount,
   incrementAsync,
   incrementIfOdd,  
-
-
   
   selectCount,
 } from './counterSlice';
